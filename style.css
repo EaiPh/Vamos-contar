@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+  color: white;
+}
+
+section{
+  width: 400px;
+  padding: 1px;
+  border-radius: 10px 10px 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: deepskyblue;
+  padding-left: 10px;
+  box-shadow: 4px 4px 3px white;
+}
+body{
+  background-color: midnightblue;
+}
+footer{
+  text-align: center;
+  color: white;
+  margin: 8px;
+}
